@@ -4,6 +4,11 @@
 Klimatic is a weather app built using Flutter which shows your current weather as well as the weather of any city all around the world.
 The First Screen contains all the weather details and the second screen is where you enter the name of the city whose weather you want to see.
 
+## Working
+
+![Klimatic](https://user-images.githubusercontent.com/44740658/67146078-dabeb380-f2a4-11e9-988c-b3e371c49101.gif)
+
+
 ## Screenshots:
 
 
