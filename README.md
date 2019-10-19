@@ -1,16 +1,21 @@
-# klimatic
+# Klimatic-Weather App
 
-A new Flutter project.
+## About the app.
+Klimatic is a weather app built using Flutter which shows your current weather as well as the weather of any city all around the world.
+The First Screen contains all the weather details and the second screen is where you enter the name of the city whose weather you want to see.
 
-## Getting Started
+## Screenshots:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Your Current Weather(Default page)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![WhatsApp Image 2019-10-19 at 3 35 12 PM](https://user-images.githubusercontent.com/44740658/67143214-bbb12900-f286-11e9-956a-58d881436ff1.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Enter The City Name:
+
+![WhatsApp Image 2019-10-19 at 3 38 03 PM](https://user-images.githubusercontent.com/44740658/67143215-bbb12900-f286-11e9-80cc-98a52e1a57b8.jpeg)
+
+### Voila! The weather of the city you just entered.
+
+![WhatsApp Image 2019-10-19 at 3 38 47 PM](https://user-images.githubusercontent.com/44740658/67143217-bc49bf80-f286-11e9-8451-6b327f30d76b.jpeg)
+
